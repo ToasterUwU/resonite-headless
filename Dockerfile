@@ -1,4 +1,4 @@
-FROM	ubuntu:oracular
+FROM	ubuntu:24.04
 
 LABEL	name=resonite-headless org.opencontainers.image.authors="panther.ru@gmail.com"
 
